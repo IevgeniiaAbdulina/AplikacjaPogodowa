@@ -2,6 +2,10 @@
 > The application shows current weather in a given location as well as forecast for the next 4 days. <br />
 Demo: [https://cc19weatherapp.herokuapp.com/](https://cc19weatherapp.herokuapp.com/)
 
+## General info
+The main goal of this application is to check weather for users location or for chosen location.
+
+![](weather.jpg)
 
 ## Table of contents
 * [General info](#general-info)
@@ -9,9 +13,6 @@ Demo: [https://cc19weatherapp.herokuapp.com/](https://cc19weatherapp.herokuapp.c
 * [Setup](#setup)
 * [Status](#status)
 * [Authors](#authors)
-
-## General info
-The main goal of this application is to check weather for users location or for chosen location.
 
 ## Technologies
 
